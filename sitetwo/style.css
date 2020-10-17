@@ -1,0 +1,25 @@
+body {
+    color: #414141;
+    background-color: #EEEEEE;
+    font-size: 18px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+h1 {
+    font-size: 2em;
+    font-weight: normal;
+}
+h2 {
+    font-size: 1.6em;
+}
+ul {
+    list-style-type: circle;
+}
+ol {
+    list-style-type: lower-roman;
+}
+a {
+    text-decoration: none;
+}
+p {
+    text-align: left;
+}
