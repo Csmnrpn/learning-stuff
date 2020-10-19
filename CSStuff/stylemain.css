@@ -1,0 +1,24 @@
+.little-button:link,
+.little-button:visited{
+    color:white;
+    background-color: #5995DA;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px solid lightslategray;
+    display:block;
+    width: 200px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.little-button:hover,
+.little-button:visited:hover{
+    background-color: #76AEED;
+    color:white;
+}
+
+.little-button:active,
+.little-button:visited:active{
+    background-color: #5995DA;
+}
