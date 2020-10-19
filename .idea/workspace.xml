@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="links and images commit">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="two new files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitetwo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitetwo/hello-css.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602919211108</updated>
-      <workItem from="1602919213014" duration="5598000" />
+      <workItem from="1602919213014" duration="5713000" />
+      <workItem from="1603031397963" duration="617000" />
+      <workItem from="1603126232212" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -87,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602923655147</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sitetwo added">
+      <created>1602925159737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602925159737</updated>
+    </task>
+    <task id="LOCAL-00005" summary="two new files">
+      <created>1602925173238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602925173238</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,20 +118,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="webstorm commit" />
     <MESSAGE value="links and images commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="links and images commit" />
+    <MESSAGE value="sitetwo added" />
+    <MESSAGE value="two new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="two new files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602919695876">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602925182500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602919695876" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602923632103">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602925182500" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602925130297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602923632103" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602925130297" />
   </component>
 </project>

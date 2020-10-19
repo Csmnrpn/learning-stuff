@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1, p{
+    background-color:lightslategray;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+em, strong {
+    background-color:lightblue;
+}
+
+div {
+    color: #FFF;
+    background-color: #4A90E2;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid lightgray;
+    width: 200px;
+    box-sizing: border-box;
+    margin: 20px auto; /* Vertical  Horizontal */
+}
+
+
+body {
+    text-align: center;
+}
