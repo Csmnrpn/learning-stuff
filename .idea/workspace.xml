@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="Selectors and buttons2">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="added to main index">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +51,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
     <property name="last_opened_file_path" value="E:/code" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="what" type="FirefoxRemoteDebugType">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +78,8 @@
       <updated>1602919211108</updated>
       <workItem from="1602919213014" duration="5713000" />
       <workItem from="1603031397963" duration="617000" />
-      <workItem from="1603126232212" duration="6328000" />
+      <workItem from="1603126232212" duration="6590000" />
+      <workItem from="1603382533654" duration="6449000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -122,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603132386378</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added to main index">
+      <created>1603132870045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603132870045</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,20 +170,77 @@
     <MESSAGE value="all about boxes" />
     <MESSAGE value="Selectors and buttons" />
     <MESSAGE value="Selectors and buttons2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selectors and buttons2" />
+    <MESSAGE value="added to main index" />
+    <option name="LAST_COMMIT_MESSAGE" value="added to main index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603132400572">
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603383814286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603132400572" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603132353685">
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603383814286" />
+    <state width="1031" height="345" key="GridCell.Tab.0.bottom" timestamp="1603383809029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603132353685" />
-    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603131369646">
+    <state width="1031" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.0.center" timestamp="1603383809029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603131369646" />
+    <state width="1031" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.0.left" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.0.right" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.1.bottom" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.1.center" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.1.left" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.1.right" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.2.bottom" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.2.center" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.2.left" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state width="1031" height="345" key="GridCell.Tab.2.right" timestamp="1603383809029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1031" height="345" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603383809029" />
+    <state x="39" y="166" key="SettingsEditor" timestamp="1603383863016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603132874093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603132874093" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603132854872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603132854872" />
+    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603132702856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603132702856" />
   </component>
 </project>
