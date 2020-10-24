@@ -1,0 +1,158 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d7d7d7;
+}
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.menu {
+    display: flex;
+    flex:1;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.menu > * {
+    flex: 1;
+}
+
+.socials{
+    display:flex;
+    justify-content: flex-end;
+    font-size: 12px;
+}
+
+
+.logo {
+    align-self:flex-start;
+    border-radius: 100px;
+    margin-left: 15px;
+    width: 100px;
+    height: 32px;
+}
+
+.same:link,
+.same:visited {
+    width: 120px;
+    border-radius: 3px;
+    font-weight: bold;
+    margin-right:15px;
+    align-self: center;
+    text-align: center;
+    padding: 9px;
+    text-decoration: none;
+}
+
+.signup:link,
+.signup:visited{
+    background-color: #5296dd;
+    color: #FFF;
+}
+
+.signup:hover,
+.signup:visited:hover {
+    background-color: #8db7f5;
+}
+
+.signup:active,
+.signup:visited:active{
+    background-color: #5296dd;
+    color: #FFF;
+}
+
+.login:link,
+.login:visited {
+    border: 1px solid #5296dd;
+    color: #5296dd;
+}
+
+.login:hover,
+.login:visited:hover{
+    border: 1px solid #8bb4e3;
+    color: #8bb1e3;
+}
+
+.login:active,
+.login:visited:active {
+    border: 1px solid #10152f;
+}
+
+.searchbar-container {
+    flex: 2;
+}
+
+.button:link,
+.button:visited {
+    text-decoration: none;
+    align-self: center;
+    text-align: center;
+    margin: 5px 35px 5px 5px;
+    width: 50px;
+    color: #FFF;
+    background-color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    height: 20px;
+}
+
+.button:hover,
+.button:visited:hover{
+    background-color: grey;
+}
+
+.button:active,
+.button:visited:active{
+    background-color: #fff;
+}
+
+.burger-image {
+    height: 20px;
+    width: 35px;
+}
+
+.searchbar {
+    justify-self: flex-start;
+    margin-left: 30px;
+    width:68%;
+
+}
+
+input {
+    height: 35px;
+    width: 100%;
+    border: 1px solid #e7e5e5;
+    background-color: #eeeef5;
+    border-radius: 4px;
+    padding-left: 30px;
+}
+
+input:hover,
+input:focus {
+    background-color: #fff;
+    border: 1px solid #5296dd;
+}
+
+.absolute{
+    position: absolute;
+    padding: 9px 0 0 10px;
+}
+
+input:focus {
+    background-color: #fff;
+    border: 1px solid #5296dd;
+    outline: none;
+}
