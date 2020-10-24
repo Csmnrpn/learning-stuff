@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="added to main index">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="learning how to flexbox">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,9 @@
       <workItem from="1602919213014" duration="5713000" />
       <workItem from="1603031397963" duration="617000" />
       <workItem from="1603126232212" duration="6590000" />
-      <workItem from="1603382533654" duration="6449000" />
+      <workItem from="1603382533654" duration="6770000" />
+      <workItem from="1603474559364" duration="2100000" />
+      <workItem from="1603526301531" duration="1638000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -144,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603132870045</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="learning how to flexbox">
+      <created>1603390076453</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603390076453</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,13 +181,14 @@
     <MESSAGE value="Selectors and buttons" />
     <MESSAGE value="Selectors and buttons2" />
     <MESSAGE value="added to main index" />
-    <option name="LAST_COMMIT_MESSAGE" value="added to main index" />
+    <MESSAGE value="learning how to flexbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning how to flexbox" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603383814286">
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474872417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603383814286" />
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603474872417" />
     <state width="1031" height="345" key="GridCell.Tab.0.bottom" timestamp="1603383809029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -230,14 +241,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603132874093">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603390083052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603132874093" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603132854872">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603390083052" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603390065397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603132854872" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603390065397" />
     <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603132702856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

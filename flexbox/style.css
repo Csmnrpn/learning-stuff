@@ -78,3 +78,26 @@ body {
     align-self: flex-end;
     margin-bottom: 20px;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-item {
+    border:1px solid #7e8184;
+    height: 100px;
+    flex: 1;
+    background-color: #d6e9fe;
+}
+
+.footer-three,
+.footer-one {
+    flex: initial;
+    background-color: #5995DA;
+    width: 300px;
+}
+
+.signup {
+    margin-left: auto;
+}
