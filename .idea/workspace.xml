@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="advanced positioning and drop down menus">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="redd menu dropdown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced positioning/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/advanced positioning/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reddit-menu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reddit-menu/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reddit-menu/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/reddit-menu/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
       <workItem from="1603555421573" duration="609000" />
       <workItem from="1603566873334" duration="1711000" />
       <workItem from="1604336773256" duration="6098000" />
-      <workItem from="1604427222081" duration="2903000" />
+      <workItem from="1604427222081" duration="5171000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -180,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604342381916</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="redd menu dropdown">
+      <created>1604430452833</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604430452833</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +214,8 @@
     <MESSAGE value="learning how to flexbox" />
     <MESSAGE value="reddit topside menu clone." />
     <MESSAGE value="advanced positioning and drop down menus" />
-    <option name="LAST_COMMIT_MESSAGE" value="advanced positioning and drop down menus" />
+    <MESSAGE value="redd menu dropdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="redd menu dropdown" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474872417">
@@ -273,14 +278,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604342387606">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604430456418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604342387606" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604342370861">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604430456418" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604430431635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604342370861" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604430431635" />
     <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603132702856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
