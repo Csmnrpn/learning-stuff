@@ -97,16 +97,17 @@ body {
 
 .button:link,
 .button:visited {
+    display: flex;
     text-decoration: none;
-    align-self: center;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
     margin: 5px 35px 5px 5px;
     width: 50px;
     color: #FFF;
     background-color: #fff;
     border-radius: 3px;
     font-weight: bold;
-    height: 20px;
+    height: 40px;
 }
 
 .button:hover,
@@ -156,3 +157,35 @@ input:focus {
     border: 1px solid #5296dd;
     outline: none;
 }
+
+.button-div {
+    position:relative;
+    z-index: 2;
+    border: 1px solid red;
+}
+
+.button-div:hover .feature-menu {
+    position:absolute;
+    right:5px;
+    background-color: #fff;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.feature-menu {
+    display: none;
+}
+
+li {
+    padding: 10px 10px 10px 10px;
+    list-style-type: none;
+}
+
+li > a {
+    text-decoration: none;
+}
+
+
+
