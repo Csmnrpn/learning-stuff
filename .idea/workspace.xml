@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="responsive design">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="responsive design 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reddit-menu/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/reddit-menu/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/responsive-design/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/responsive-design/responsive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/responsive-design/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/responsive-design/styles.css" afterDir="false" />
     </list>
@@ -87,7 +88,10 @@
       <workItem from="1603566873334" duration="1711000" />
       <workItem from="1604336773256" duration="6098000" />
       <workItem from="1604427222081" duration="5206000" />
-      <workItem from="1604519476909" duration="2267000" />
+      <workItem from="1604519476909" duration="2435000" />
+      <workItem from="1604600528836" duration="1016000" />
+      <workItem from="1605032394252" duration="2897000" />
+      <workItem from="1605118800760" duration="6375000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -194,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604437221341</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="responsive design 2">
+      <created>1604522356040</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604522356040</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +237,8 @@
     <MESSAGE value="advanced positioning and drop down menus" />
     <MESSAGE value="redd menu dropdown" />
     <MESSAGE value="responsive design" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive design" />
+    <MESSAGE value="responsive design 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive design 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474872417">
@@ -289,17 +301,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604437224406">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604522360186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604437224406" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604437200271">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604522360186" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604522347327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604437200271" />
-    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603132702856">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604522347327" />
+    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605119909803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603132702856" />
+    <state x="191" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605119909803" />
   </component>
 </project>

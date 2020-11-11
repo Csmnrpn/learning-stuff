@@ -47,6 +47,12 @@
     background-color: #C8C6FA;
 }
 
+
+.illustration img{
+    width: 100%;
+    display: block;
+}
+
 @media only screen and (max-width: 500px) {
     body {
         background-color: #f09a9d;

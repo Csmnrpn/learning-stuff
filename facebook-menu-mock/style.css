@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f7f7f7;
+}
+.menu-container {
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    height: 55px;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    width: 100%;
+
+    align-items: center;
+}
+
+.items {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-left: auto;
+    height: 45px;
+}
+
+.item{
+    display: flex;
+    list-style-type: none;
+    margin-left: 10px;
+    border-radius: 100px;
+    background-color: #f7f7f7;
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+li:last-child {
+    margin-right: 20px;
+}
+
+.hamburger{
+    display: flex;
+    height: 52px;
+
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px 0 20px;
+    padding: 0 15px 0 15px;
+
+}
+
+.facebook-icon{
+    height: 40px;
+    width: 40px;
+}
+
+.logo{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 13px;
+
+}
+
+.searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    background-color: #f7f7f7;
+    height: 40px;
+    width: 40px;
+    margin-left: 5px;
+}
+
+.item:hover,
+.item:visited:hover{
+    background-color: #dfe3ee;
+}
+
+.item:active,
+.item:visited:active {
+    background-color: #7e8184;
+}
+
+.hamburger:hover,
+.hamburger:visited:hover {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+
+.hamburger:active,
+.hamburger:visited:active {
+    background-color: #dfe3ee;
+}
