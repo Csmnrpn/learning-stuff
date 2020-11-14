@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="facemock v3" />
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="facemock v3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook-menu-mock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/facebook-menu-mock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook-menu-mock/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/facebook-menu-mock/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +93,10 @@
       <workItem from="1605118800760" duration="6608000" />
       <workItem from="1605125491564" duration="89000" />
       <workItem from="1605125629166" duration="41000" />
+      <workItem from="1605125728888" duration="107000" />
+      <workItem from="1605125886852" duration="41000" />
+      <workItem from="1605201222135" duration="2667000" />
+      <workItem from="1605374334877" duration="5692000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -223,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605125658048</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="please work">
+      <created>1605125765000</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605125765000</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +274,8 @@
     <MESSAGE value="facemock" />
     <MESSAGE value="facemock v2" />
     <MESSAGE value="facemock v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="facemock v3" />
+    <MESSAGE value="please work" />
+    <option name="LAST_COMMIT_MESSAGE" value="please work" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474872417">
@@ -322,10 +338,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605125661189">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605125771128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605125661189" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605125771128" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605125650108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
