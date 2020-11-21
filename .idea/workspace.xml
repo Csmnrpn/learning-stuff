@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="index link">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="r.images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/responsive-design/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/responsive-design/responsive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive-design/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/responsive-design/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,8 @@
       <workItem from="1605125886852" duration="41000" />
       <workItem from="1605201222135" duration="2667000" />
       <workItem from="1605374334877" duration="6439000" />
-      <workItem from="1605718349914" duration="5207000" />
+      <workItem from="1605718349914" duration="5426000" />
+      <workItem from="1605809988655" duration="917000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -253,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605726788495</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="r.images">
+      <created>1605729689158</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605729689158</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +299,8 @@
     <MESSAGE value="please work" />
     <MESSAGE value="facemock v4" />
     <MESSAGE value="index link" />
-    <option name="LAST_COMMIT_MESSAGE" value="index link" />
+    <MESSAGE value="r.images" />
+    <option name="LAST_COMMIT_MESSAGE" value="r.images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474872417">
@@ -355,14 +363,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605726796958">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605729696276">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605726796958" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605726770840">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605729696276" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605729675801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605726770840" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605729675801" />
     <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605119909803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
