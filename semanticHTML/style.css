@@ -1,0 +1,116 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #008080;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style-type: none;
+}
+
+.page{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #b2d8d8;
+}
+
+.top-header,
+.main,
+.sidebar,
+.bottom-footer{
+    width:100%;
+}
+
+.top-header {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.logo {
+    width: 100%;
+}
+
+.button {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 21px 0;
+    padding: 5px 0 5px 0;
+}
+
+.but{
+    color: 	#004c4c;
+}
+
+.top-nav{
+    display: flex;
+    width:100%;
+}
+
+.top-list{
+    display: flex;
+    flex-flow: row wrap;
+    width:100%;
+    justify-content: space-evenly;
+}
+
+.bottom-footer{
+    height: 500px;
+}
+
+.button:hover,
+.button:visited:hover {
+    background-color: #66b2b2;
+    border-radius: 5px 5px 0 0;
+    border-bottom: 1px solid #004c4c;
+    margin-bottom: 20px;
+}
+
+.button:active,
+.button:visited:active {
+    background-color: #004c4c;
+
+}
+
+.main{
+    margin-top:30px;
+}
+
+.sidebar{
+    margin-top: 30px;
+}
+
+.bottom-footer{
+    margin-top: 30px;
+}
+
+@media (min-width: 1000px) {
+    .button {
+        width: 23%;
+    }
+
+    .page {
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .sidebar {
+        width:25%;
+    }
+
+    .main,
+    .bottom-footer{
+        width:75%;
+    }
+}
