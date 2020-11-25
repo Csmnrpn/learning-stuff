@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="semantic html styling">
+    <list default="true" id="8e2d25f7-5ff7-4bd0-bc46-93e0d37d581a" name="Default Changelist" comment="form learning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/speaker-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms/speaker-submission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/forms/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +102,9 @@
       <workItem from="1605945192256" duration="6264000" />
       <workItem from="1605987542024" duration="1323000" />
       <workItem from="1606059067224" duration="7059000" />
-      <workItem from="1606160169914" duration="3283000" />
+      <workItem from="1606160169914" duration="3611000" />
+      <workItem from="1606236012499" duration="4837000" />
+      <workItem from="1606325113283" duration="7093000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm commit">
       <created>1602919660752</created>
@@ -277,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606066541141</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="form learning">
+      <created>1606164006421</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606164006421</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +330,8 @@
     <MESSAGE value="r.images" />
     <MESSAGE value="r.images v2" />
     <MESSAGE value="semantic html styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="semantic html styling" />
+    <MESSAGE value="form learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="form learning" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603474872417">
@@ -382,14 +394,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="39" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603383863016" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606066548883">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606164013589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606066548883" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606066517627">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606164013589" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606163991149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606066517627" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606163991149" />
     <state x="191" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605119909803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
